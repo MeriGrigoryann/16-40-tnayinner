@@ -1,0 +1,31 @@
+# import math 
+# h = float ( input ("Ներմուծել մարմնի բարձրությունը՝  "))
+# g = 10
+# t = print ( "t =  " , math.sqrt(2 * h / g) )
+# print ("v = " , math.sqrt(2 * g * h))
+
+
+# import math
+# r = int (input ("input any number: "))
+# print ("S = " , math.pi * r ** 2 )
+
+# import random
+# tiv = random.randint(1 , 15)
+# gushakel = int (input ("Nermucel tiv 1- 15 mijakayqum: "))
+# print (tiv == gushakel)
+
+# num1 = int (input ("Input any number: "))
+# num2 = int (input ("Input any number: "))
+# print ( (num1 + num2) / 2 )
+
+# import math
+# n = int ( input ( "Input any number: "))
+# print ("n! = " , math.factorial(n))
+
+# x = "Text"
+# print (x[ : : -1])
+
+# import math
+# a = int ( input ("Ներմուծել առաջին կողմը՝ "))
+# b = int ( input ("Ներմուծել երկրորդ կողմը՝ "))
+# print ( "c = " , math.sqrt(a ** 2 + b ** 2) )

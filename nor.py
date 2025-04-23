@@ -1,0 +1,1 @@
+print ('erkrord brenchi hamar')
